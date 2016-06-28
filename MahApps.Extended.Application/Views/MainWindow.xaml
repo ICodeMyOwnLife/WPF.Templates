@@ -29,7 +29,9 @@
             <MenuItem Style="{StaticResource AccentMenuItemStyle}" />
         </Menu>
 
-        <Grid Grid.Row="1" />
+        <Grid Grid.Row="1">
+            
+        </Grid>
 
         <StatusBar Grid.Row="2" />
     </Grid>
