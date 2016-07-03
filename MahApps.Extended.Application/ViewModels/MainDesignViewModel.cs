@@ -1,4 +1,4 @@
-namespace MahApps.Extended.Application
+namespace MahApps.Extended.Application.ViewModels
 {
     public class MainDesignViewModel: MainViewModel
     {
